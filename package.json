@@ -1,0 +1,28 @@
+{
+  "name": "gunpla",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangzuo/gunpla.git"
+  },
+  "author": "Wang Zuo <wzuoadjusted@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wangzuo/gunpla/issues"
+  },
+  "homepage": "https://github.com/wangzuo/gunpla#readme",
+  "dependencies": {
+    "@google-cloud/storage": "^1.5.1",
+    "front-matter": "^2.3.0",
+    "glob": "^7.1.2",
+    "lodash": "^4.17.4",
+    "markdown-it": "^8.4.0",
+    "mkdirp": "^0.5.1",
+    "request": "^2.83.0"
+  }
+}

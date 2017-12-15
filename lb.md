@@ -1,0 +1,3 @@
+- [ ] http://gundam.wikia.com/wiki/Category:Gundam_model
+- [ ] more models
+- [ ] i18n support
