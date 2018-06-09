@@ -17,7 +17,13 @@
     "markdown-it": "^8.4.0",
     "mkdirp": "^0.5.1",
     "pug": "^2.0.0-rc.4",
-    "request": "^2.83.0"
+    "rehype-stringify": "^3.0.0",
+    "remark": "^9.0.0",
+    "remark-html": "^7.0.0",
+    "remark-parse": "^5.0.0",
+    "remark-rehype": "^3.0.0",
+    "request": "^2.83.0",
+    "unified": "^7.0.0"
   },
   "repository": {
     "type": "git",
